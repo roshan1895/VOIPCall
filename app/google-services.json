@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833661408966",
+    "project_id": "visiondemo-dc729",
+    "storage_bucket": "visiondemo-dc729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833661408966:android:36c3493fab99ddf0a369c7",
+        "android_client_info": {
+          "package_name": "com.app.voipcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833661408966-c48l540o61s2apinl9mvrmoakbk68v1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dDilzvpMeR_TbJWrsAIp78rp5egJbBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833661408966-c48l540o61s2apinl9mvrmoakbk68v1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
